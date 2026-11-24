@@ -1,0 +1,12 @@
+placa=input("Ingrese la placa del vehículo: ")
+propietario=input("Ingrese el nombre del propietario: ")
+hora_entrada=input("Ingrese la hora de entrada (HH:MM): ")
+
+print("===============================")
+print("Comprobante de Entrada")
+print("===============================")
+print(f"Placa: {placa}")
+print(f"Propietario: {propietario}")
+print(f"Hora de Entrada: {hora_entrada}")
+print("===============================")
+print("Favor de conservar este comprobante para su salida.")
